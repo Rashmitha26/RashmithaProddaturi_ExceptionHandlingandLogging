@@ -1,0 +1,9 @@
+2020-02-25 19:15:40 INFO  App:18 - Select an option \n 1.Simple Interest 2.Compound Interest\n
+2020-02-25 19:15:43 INFO  App:20 - Enter principal, rate of interest and time in years
+
+2020-02-25 19:15:48 INFO  App:24 - Amount is: 100.0
+2020-02-25 19:15:48 INFO  App:34 - 
+House Construction
+Enter material standard(1.standard 2.above standard 3.high standard and total area of house
+
+2020-02-25 19:15:54 INFO  App:45 - Total cost required: 1800000.0
